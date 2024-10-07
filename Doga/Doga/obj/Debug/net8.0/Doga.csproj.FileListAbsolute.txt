@@ -1,0 +1,14 @@
+C:\Users\barczi.bence\Desktop\Doga\Doga\bin\Debug\net8.0\Doga.exe
+C:\Users\barczi.bence\Desktop\Doga\Doga\bin\Debug\net8.0\Doga.deps.json
+C:\Users\barczi.bence\Desktop\Doga\Doga\bin\Debug\net8.0\Doga.runtimeconfig.json
+C:\Users\barczi.bence\Desktop\Doga\Doga\bin\Debug\net8.0\Doga.dll
+C:\Users\barczi.bence\Desktop\Doga\Doga\bin\Debug\net8.0\Doga.pdb
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.AssemblyInfoInputs.cache
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.AssemblyInfo.cs
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.csproj.CoreCompileInputs.cache
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.dll
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\refint\Doga.dll
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.pdb
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\Doga.genruntimeconfig.cache
+C:\Users\barczi.bence\Desktop\Doga\Doga\obj\Debug\net8.0\ref\Doga.dll
